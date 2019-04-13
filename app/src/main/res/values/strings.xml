@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Insubria Timeline</string>
+
+    <!-- Lista che contiene i vari link alla timeline delle sedi di varese trovabili anche on line
+
+            Generica:http://timeline.uninsubria.it/
+            MTG: http://timeline.uninsubria.it/browse.php?sede=mtg
+            Morselli: http://timeline.uninsubria.it/browse.php?sede=mrs
+            Seppilli: http://timeline.uninsubria.it/browse.php?sede=sep
+            Antonini: http://timeline.uninsubria.it/browse.php?sede=ant
+            Collegio Carlo Cattaneo: http://timeline.uninsubria.it/browse.php?sede=collegio
+            Via Dunant 3: http://timeline.uninsubria.it/browse.php?sede=dunant -->
+
+    <string-array name="timeLineVareseUrlList">
+        <item>http://timeline.uninsubria.it/</item>
+        <item>http://timeline.uninsubria.it/browse.php?sede=mtg</item>
+        <item>http://timeline.uninsubria.it/browse.php?sede=mrs</item>
+        <item>http://timeline.uninsubria.it/browse.php?sede=sep</item>
+        <item>http://timeline.uninsubria.it/browse.php?sede=ant</item>
+        <item>http://timeline.uninsubria.it/browse.php?sede=collegio</item>
+        <item>http://timeline.uninsubria.it/browse.php?sede=dunant</item>
+    </string-array>
+
+    <!-- Lista che contiene i vari link alla timeline delle sedi di como trovabili anche on line -->
+
+    <string-array name="timelineComoUrlList">
+        <item>http://timeline.uninsubria.it/browse.php?sede=santabbondio</item>
+        <item>http://timeline.uninsubria.it/browse.php?sede=valleggio</item>
+        <item>http://timeline.uninsubria.it/browse.php?sede=cavallotti</item>
+    </string-array>
+</resources>
